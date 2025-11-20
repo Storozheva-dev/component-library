@@ -31,10 +31,10 @@ Multi-type input component with:
 **Stories:** Default, Password, Clearable, Number
 
 **Screenshots:**  
-Default: ![Default Input](./public/DefaultInput.png)  
-Password: ![Password Input](./public/PasswordInput.png)  
-Clearable: ![Clearable Input](./public/ClearableInput.png)  
-Number: ![Number Input](./public/NumberInput.png)
+** Default** : ![Default Input](./public/DefaultInput.png)  
+** Password** : ![Password Input](./public/PasswordInput.png)  
+** Clearable** : ![Clearable Input](./public/ClearableInput.png)  
+** Number** : ![Number Input](./public/NumberInput.png)
 
 ---
 
@@ -49,10 +49,10 @@ Notification component with:
 **Stories:** Success, Error, Info, Warning
 
 **Screenshots:**  
-Success: ![Toast Success](./public/SuccessToast.png)  
-Error: ![Toast Error](./public/ErrorToast.png)  
-Info: ![Toast Info](./public/InfoToast.png)
-Warning: ![Toast Warning](./public/WarningToast.png)
+** Success** : ![Toast Success](./public/SuccessToast.png)  
+** Error** : ![Toast Error](./public/ErrorToast.png)  
+** Info** : ![Toast Info](./public/InfoToast.png)
+** Warning** : ![Toast Warning](./public/WarningToast.png)
 
 ---
 
@@ -67,8 +67,8 @@ Nested sidebar menu with sliding animation:
 **Stories:** Default, Nested items open/closed, Animated slide
 
 **Screenshots:**  
-One level: ![One level Sidebar](./public/OneLevelSidebar.png)  
-Two level: ![Two level Sidebar](./public//TwoLevelSidebar.png)
+** One level** : ![One level Sidebar](./public/OneLevelSidebar.png)  
+** Two level** : ![Two level Sidebar](./public//TwoLevelSidebar.png)
 
 ---
 
